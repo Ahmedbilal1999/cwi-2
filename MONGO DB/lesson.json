@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "63cf6d91525e307676897742"
+  },
+  "id": 2,
+  "subject": "Arabic",
+  "location": "Block 5, Class 802",
+  "price": 350,
+  "space": 4,
+  "image": "static/arabic.jpeg"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e307676897744"
+  },
+  "id": 4,
+  "subject": "english",
+  "location": "Block 3, Class 605",
+  "price": 250,
+  "space": 6,
+  "image": "static/englishlanguage.jpg"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e307676897746"
+  },
+  "id": 6,
+  "subject": "Physics",
+  "location": "Block 9, Physics lab",
+  "price": 300,
+  "space": 8,
+  "image": "static/futsall.jpg"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e307676897749"
+  },
+  "id": 9,
+  "subject": "Swimming",
+  "location": "Block 7, Swimming Pool",
+  "price": 500,
+  "space": 9,
+  "image": "static/indoorgames.jpg"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e30767689774c"
+  },
+  "id": 12,
+  "subject": "Computer Science",
+  "location": "Block 8, Computer Lab",
+  "price": 175,
+  "space": 4,
+  "image": "static/ouutdoorgames.png"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e307676897743"
+  },
+  "id": 3,
+  "subject": "Football",
+  "location": "Block 6, Field 1",
+  "price": 425,
+  "space": 8,
+  "image": "static/futsall.png"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e30767689774b"
+  },
+  "id": 11,
+  "subject": "Cricket",
+  "location": "Block 8, Class 207",
+  "price": 250,
+  "space": 9,
+  "image": "static/sportactivity.png"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e30767689774f"
+  },
+  "id": 15,
+  "subject": "Dance",
+  "location": "Block 7, Dance Studio",
+  "price": 350,
+  "space": 4,
+  "image": "static/swimming.jpg"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e307676897741"
+  },
+  "id": 1,
+  "subject": "Mathmateics",
+  "location": "Block 1, Class 108",
+  "price": 425,
+  "space": 6,
+  "image": "static/mathem.jpg"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e307676897747"
+  },
+  "id": 7,
+  "subject": "Chemistry",
+  "location": "Block 4, Chemistry Lab",
+  "price": 250,
+  "space": 7,
+  "image": "static/chemistry.jpg"
+},{
+  "_id": {
+    "$oid": "63cf6d91525e307676897745"
+  },
+  "id": 5,
+  "subject": "Geography",
+  "location": "Block 1, Geography Lab",
+  "price": 375,
+  "space": 5,
+  "image": "static/Geo.png"
+}]
